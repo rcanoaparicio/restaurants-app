@@ -1,0 +1,93 @@
+html, body, #root, .App {
+  height: 100%
+}
+
+.App {
+  text-align: center;
+}
+
+.Restaurants {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+  background-color: #ede9ff;
+
+}
+
+.Restaurant {
+  display: flex;
+  flex-flow: row center;
+  background-color: #ffffff;
+  margin: 20px;
+  border-radius: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.Restaurant div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: right;
+  padding: 0 50px 0 50px;
+  width: 75%;
+}
+
+.Restaurant img {
+  object-fit: cover;
+  max-width: 25%;
+  aspect-ratio: 1;
+  border-radius: 10px 0px 0px 10px;
+}
+
+.Products {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+  background-color: #ede9ff;
+  text-transform: uppercase;
+  height: 100%;
+}
+
+.Product {
+  display: flex;
+  flex-flow: row center;
+  background-color: #ffffff;
+  margin: 20px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.Product div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: right;
+  padding: 0 50px 0 50px;
+  width: 75%;
+
+}
+
+.Product img {
+  object-fit: cover;
+  max-width: 25%;
+  aspect-ratio: 1;
+  border-radius: 10px 0px 0px 10px;
+}
+
+.Products input {
+  font-size: large;
+  padding: 10px;
+}
+
+.category {
+  font-size: larger;
+  font-weight: bold;
+  color: #5441ac;
+  text-align: left;
+  margin-left: 20px;
+}

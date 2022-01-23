@@ -1,0 +1,218 @@
+{
+    "restaurants": [
+        {
+            "id": 1,
+            "name": "Restaurante A",
+            "image": "https://elitetraveler.com/wp-content/uploads/2007/02/Caelis_Barcelona_alta2A0200-1-730x450.jpg",
+            "open": true,
+            "latitude": 41.53502389519783, 
+            "longitude": 2.4035702916752104,
+            "catalog": [
+                {
+                    "category": "entrantes",
+                    "products": [
+                        {
+                            "name": "producto a",
+                            "description": "bonita descripción",
+                            "image": "https://images.ecestaticos.com/RBNI_AeePMFItQJFdT4EU-ryIdo=/73x0:2632x1802/992x700/filters:fill(white):format(JPG)/f.elconfidencial.com%2Foriginal%2F8dd%2F4ba%2F414%2F8dd4ba414c94c4d2a12a2e85d0ec2a3f.jpg",
+                            "price": 0.5
+                        },
+                        {
+                            "name": "producto b",
+                            "description": "no tan bonita descripción",
+                            "image": "https://www.mylatinatable.com/wp-content/uploads/2018/04/Tostadas-4.jpg",
+                            "price": 2.25
+                        }
+                    ]
+                },
+                {
+                    "category": "principales",
+                    "products": [
+                        {
+                            "name": "producto a",
+                            "description": "bonita descripción",
+                            "image": "https://dam.cocinafacil.com.mx/wp-content/uploads/2019/02/tostada-mariscos.png",
+                            "price": 0.5
+                        },
+                        {
+                            "name": "producto b",
+                            "description": "no tan bonita descripción",
+                            "image": "https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2019/05/tortilla-espa%C3%B1ola.jpg",
+                            "price": 2.25
+                        },
+                        {
+                            "name": "producto c",
+                            "description": "pésima descripción",
+                            "image": "https://www.maricruzavalos.com/wp-content/uploads/2014/07/mexican-tortillas-recipe.jpg",
+                            "price": 2.25
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Restaurante B",
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/1c/2f/22/centonze-restaurant.jpg",
+            "open": true,
+            "latitude": 41.38134183019057, 
+            "longitude": 2.1358573644758416,
+            "catalog": [
+                {
+                    "category": "entrantes",
+                    "products": [
+                        {
+                            "name": "producto a",
+                            "description": "bonita descripción",
+                            "image": "https://images.ecestaticos.com/RBNI_AeePMFItQJFdT4EU-ryIdo=/73x0:2632x1802/992x700/filters:fill(white):format(JPG)/f.elconfidencial.com%2Foriginal%2F8dd%2F4ba%2F414%2F8dd4ba414c94c4d2a12a2e85d0ec2a3f.jpg",
+                            "price": 0.5
+                        }
+                    ]
+                },
+                {
+                    "category": "principales",
+                    "products": [
+                        {
+                            "name": "producto a",
+                            "description": "bonita descripción",
+                            "image": "https://dam.cocinafacil.com.mx/wp-content/uploads/2019/02/tostada-mariscos.png",
+                            "price": 0.5
+                        },
+                        {
+                            "name": "producto entrante c",
+                            "description": "pésima descripción",
+                            "image": "https://www.maricruzavalos.com/wp-content/uploads/2014/07/mexican-tortillas-recipe.jpg",
+                            "price": 2.25
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Restaurante C",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Restaurant_N%C3%A4sinneula.jpg",
+            "open": false,
+            "latitude": 41.49092797219315, 
+            "longitude": 2.3524426104917193,
+            "catalog": [
+                {
+                    "category": "entrantes",
+                    "products": [
+                        {
+                            "name": "producto a",
+                            "description": "bonita descripción",
+                            "image": "https://images.ecestaticos.com/RBNI_AeePMFItQJFdT4EU-ryIdo=/73x0:2632x1802/992x700/filters:fill(white):format(JPG)/f.elconfidencial.com%2Foriginal%2F8dd%2F4ba%2F414%2F8dd4ba414c94c4d2a12a2e85d0ec2a3f.jpg",
+                            "price": 0.5
+                        },
+                        {
+                            "name": "producto b",
+                            "description": "no tan bonita descripción",
+                            "image": "https://www.mylatinatable.com/wp-content/uploads/2018/04/Tostadas-4.jpg",
+                            "price": 2.25
+                        }
+                    ]
+                },
+                {
+                    "category": "principales",
+                    "products": [
+                        {
+                            "name": "producto a",
+                            "description": "bonita descripción",
+                            "image": "https://dam.cocinafacil.com.mx/wp-content/uploads/2019/02/tostada-mariscos.png",
+                            "price": 0.5
+                        },
+                        {
+                            "name": "producto b",
+                            "description": "no tan bonita descripción",
+                            "image": "https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2019/05/tortilla-espa%C3%B1ola.jpg",
+                            "price": 2.25
+                        },
+                        {
+                            "name": "producto c",
+                            "description": "pésima descripción",
+                            "image": "https://www.maricruzavalos.com/wp-content/uploads/2014/07/mexican-tortillas-recipe.jpg",
+                            "price": 2.25
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Restaurante D",
+            "image": "https://www.therooftopguide.com/rooftop-news/Bilder/rooftop-restaurant-barcelona-mood-rooftop-bar.jpg",
+            "open": true,
+            "latitude": 41.28739048649895,
+            "longitude": 1.9877656845925107,
+            "catalog": [
+                {
+                    "category": "entrantes",
+                    "products": [
+                        {
+                            "name": "producto b",
+                            "description": "no tan bonita descripción",
+                            "image": "https://www.mylatinatable.com/wp-content/uploads/2018/04/Tostadas-4.jpg",
+                            "price": 2.25
+                        }
+                    ]
+                },
+                {
+                    "category": "principales",
+                    "products": [
+                        {
+                            "name": "producto b",
+                            "description": "no tan bonita descripción",
+                            "image": "https://lacocinadefrabisa.lavozdegalicia.es/wp-content/uploads/2019/05/tortilla-espa%C3%B1ola.jpg",
+                            "price": 2.25
+                        },
+                        {
+                            "name": "producto c",
+                            "description": "pésima descripción",
+                            "image": "https://www.maricruzavalos.com/wp-content/uploads/2014/07/mexican-tortillas-recipe.jpg",
+                            "price": 2.25
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Restaurante E",
+            "image": "https://pea-7f65.kxcdn.com/img/image_db/best_restaurants_barcelona_cinc_sentits_dining_room-942.jpg",
+            "open": false,
+            "latitude": 39.912769181677554, 
+            "longitude": 116.412051293357,
+            "catalog": [
+                {
+                    "category": "entrantes",
+                    "products": [
+                        {
+                            "name": "producto a",
+                            "description": "bonita descripción",
+                            "image": "https://images.ecestaticos.com/RBNI_AeePMFItQJFdT4EU-ryIdo=/73x0:2632x1802/992x700/filters:fill(white):format(JPG)/f.elconfidencial.com%2Foriginal%2F8dd%2F4ba%2F414%2F8dd4ba414c94c4d2a12a2e85d0ec2a3f.jpg",
+                            "price": 0.5
+                        },
+                        {
+                            "name": "producto b",
+                            "description": "no tan bonita descripción",
+                            "image": "https://www.mylatinatable.com/wp-content/uploads/2018/04/Tostadas-4.jpg",
+                            "price": 2.25
+                        }
+                    ]
+                },
+                {
+                    "category": "principales",
+                    "products": [
+                        {
+                            "name": "producto a",
+                            "description": "bonita descripción",
+                            "image": "https://dam.cocinafacil.com.mx/wp-content/uploads/2019/02/tostada-mariscos.png",
+                            "price": 0.5
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
