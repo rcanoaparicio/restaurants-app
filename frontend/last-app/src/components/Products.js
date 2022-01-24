@@ -41,10 +41,10 @@ const Products = (props) => {
                 placeholder="Filter by tag"
             />
             {catalog.map(category => {
-                return <div>
+                return <div key={category.category}>
                     <p className="category">{category.category}</p>
                     {category.products.map((product) => {
-                        return <Product product={product}/>
+                        return <Product product={product} key={`${category.category}_${product.name}`}/>
                     })}
                 </div>
             })}
